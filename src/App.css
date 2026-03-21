@@ -13,6 +13,20 @@
   }
 }
 
+  .content {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 30px;
+    color: rgb(9, 79, 79);
+  }
+
+  .content button {
+    background: #13dfc3;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
